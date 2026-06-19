@@ -19,5 +19,13 @@ BTP is a platform not an ERP, it is PaaS (Platform as a service).
 💠💠💠 Certification completed.  
 ✅ Discovering SAP Business Technology Platform
 
+✅ BTP main use cases:  
+- Accelerate and move to cloud.  
+- Optimise and automate business approach.  
+- Derive decisions based on Data.  
+- Keep the core clean.  
+- Deliver personalized experiences.  
+- Connect applications and processes across the enterprise.  
+💠 Business need seamless combinatin of application, Data and AI. which is best provided and managed by SAP BTP. this is a bedrock for using AI.
 
 
