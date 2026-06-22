@@ -21,7 +21,7 @@
 ## API_VENDOR_INVOICE_SRV
 - Maps to MIRO invoice verification
 
-✅ BTP App
+✅ BTP App (check the structure in code)  
     |
     |-- Authenticated via -> IAS/ Trust configuration
     |
