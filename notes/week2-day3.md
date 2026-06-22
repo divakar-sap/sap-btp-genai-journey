@@ -21,6 +21,21 @@
 ## API_VENDOR_INVOICE_SRV
 - Maps to MIRO invoice verification
 
-
+✅ BTP App
+    |
+    |-- Authenticated via -> IAS/ Trust configuration
+    |
+    |-- Authorized via -> Role Collection -> Roles
+    |
+    |-- Connects to S/4 MM via -> Destination
+                                        |
+                                -------------------------
+                                |                       |
+                            Internet                OnPremise (via Cloud Connector)
+                            (direct)                    |
+                                |                     [On-Prem S/4HANA MM]
+                            [Sandbox/ Cloud]
+                                        S/4
+    
 
 
